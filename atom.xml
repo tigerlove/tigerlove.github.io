@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://lujianfu.com/"/>
+  <updated>2016-12-20T08:26:21.000Z</updated>
+  <id>http://lujianfu.com/</id>
+  
+  <author>
+    <name>Lu Jianfu</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的2016</title>
+    <link href="http://lujianfu.com/2016/12/20/%E6%88%91%E7%9A%842016/"/>
+    <id>http://lujianfu.com/2016/12/20/我的2016/</id>
+    <published>2016-12-20T08:03:47.000Z</published>
+    <updated>2016-12-20T08:26:21.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h3><p>​    整个一年都是不好的状态。睡眠并不好，白天也没有特别的专注。除了经常骑车上下班2个多小时，没有再坚持运动。经常叫外卖。花了太多时间《守望先锋》，甚至还有很多刷网易客户端的无意识时间。怎么找不到劲。达不到自己的要求，潜意识的焦虑和失望也反过来影响到自己的行动。写下来是为了以后再也不这样。</p>
+<h3 id="工作"><a href="#工作" class="headerlink" title="工作"></a>工作</h3><ul>
+<li>研究了几天的微博爬虫。可以不用登陆，定时管理抓取特定关键词和特定的人最新微博。算是半成品。没啥工作量，算下来2-3也不到。</li>
+<li>折腾了一段时间的表情TV网站，把域名备案，基本的前后端，七牛云存储，基本的功能做完了。发现有大量的内容要制作。而自己过度纠结的态度，使得行动力太弱，做个东西耗时间太多。也发现有别的公司做得还不错，比如<a href="http://soogif.com/" target="_blank" rel="external">http://soogif.com/</a> （功能几乎一样）。但我感觉它这样的方式离用户还是太远。如果要让用户方便发表情得在IM打字的时候弹出gif提示，当时并不知道可以做得到。后来发现有公司(<a href="http://m.52emoji.com/" target="_blank" rel="external">http://m.52emoji.com/</a> 等等)通过开发android辅助功能实现一个iphone样的气泡。没有继续做下去。</li>
+<li>android会一些。IOS买了本书，一页都没有翻过，觉得xcode巨难用。会用React Native写点ios，但涉及到ios的东西估计都忘光了。以后也不打算再看IOS。</li>
+<li>用node写了公司手机的后端API，Python也用到一些。前端看了一些react和vue，但实际并没有写太多。</li>
+</ul>
+<p>​    发现自己总是在做重复的事情，然后并没有做很深入就放弃，之后再来。饱受自己情绪，欲望和周围事物的影响。s我觉得造成这个问题的一个原因是自己并没有太想清楚，或者更确切的说，有这个意识:</p>
+<blockquote>
+<p>自己要去做什么?</p>
+</blockquote>
+<h3 id="阅读"><a href="#阅读" class="headerlink" title="阅读"></a>阅读</h3><ul>
+<li><a href="https://book.douban.com/subject/4953707/" target="_blank" rel="external">门口的野蛮人 : 史上最强悍的资本收购</a>  因为万科股权之争，找到的书。进而在豆瓣的推荐上找到了更多的书。主要讲的美国大企业杠杆收购。</li>
+<li><a href="https://book.douban.com/subject/25942507/" target="_blank" rel="external">参与感 : 小米口碑营销内部手册</a></li>
+<li><a href="https://book.douban.com/subject/4010197/" target="_blank" rel="external">说谎者的扑克牌</a> 迈克尔.刘易斯的成名作，一些关于所罗门兄弟公司的趣闻</li>
+<li><a href="https://book.douban.com/subject/5408886/" target="_blank" rel="external">大空头</a> 很喜欢，后来也追了电影。对于我这种门外汉比较有吸引力。电影里高司令简直了。</li>
+<li><a href="https://book.douban.com/subject/26361652/" target="_blank" rel="external">高频交易员</a> 刘易斯里书相对不太好看的一个，感觉他其实不太懂这个。</li>
+<li><a href="https://book.douban.com/subject/5297291/" target="_blank" rel="external">大而不倒</a> 没有读完，感觉是在记流水账。</li>
+<li><a href="https://book.douban.com/subject/5914480/" target="_blank" rel="external">富可敌国</a> 对冲基金。书挺不错。</li>
+<li><a href="https://book.douban.com/subject/26541801/" target="_blank" rel="external">增长黑客：创业公司的用户与收入增长秘籍</a> 忘完了</li>
+<li><a href="https://book.douban.com/subject/26297606/" target="_blank" rel="external">从0到1</a> 一个是垄断，一个是秘密</li>
+<li><a href="https://book.douban.com/subject/26695437/" target="_blank" rel="external">我是高频交易工程师：知乎董可人自选集</a> 挺好</li>
+<li><a href="https://book.douban.com/subject/20428319/" target="_blank" rel="external">花儿与少年</a> 严歌苓，心理描写不错</li>
+<li><a href="https://book.douban.com/subject/2339892/" target="_blank" rel="external">海龟交易法则</a> 感觉就是很技术那种，分析波段。回想起那段正好出差。看了下吉利的股票，觉得低，2.7附近，但是并没有买。</li>
+<li><a href="https://book.douban.com/subject/25741323/" target="_blank" rel="external">影子银行内幕</a> 听他抱怨小贷公司的回忆</li>
+<li><a href="https://book.douban.com/subject/4149140/" target="_blank" rel="external">解读量化投资 : 西蒙斯用公式打败市场的故事</a> 挺好</li>
+<li><a href="https://book.douban.com/subject/3793874/" target="_blank" rel="external">白话金融投资</a> 挺好</li>
+<li><a href="https://book.douban.com/subject/26697242/" target="_blank" rel="external">钓愚</a> 诺贝尔奖获得者写的。很无聊。</li>
+<li><a href="https://book.douban.com/subject/25848404/" target="_blank" rel="external">Android编程权威指南</a></li>
+<li><a href="https://book.douban.com/subject/25942191/" target="_blank" rel="external">第一行代码</a>  两本android，可以给公司维护点android的程序</li>
+<li><a href="https://book.douban.com/subject/3291970/" target="_blank" rel="external">滚雪球（上</a> 11岁买股票，天天被姐姐问为啥你买的股票又跌了。</li>
+<li><a href="https://book.douban.com/subject/1137246/" target="_blank" rel="external">就业、利息和货币通论</a> 没读进去。。以后再读</li>
+<li><a href="https://book.douban.com/subject/1031857/" target="_blank" rel="external">虐恋亚文化</a> 读了一半吧，读到可能感兴趣的地方，居然就停下来了。。以后读完。</li>
+<li><a href="https://book.douban.com/subject/25876611/" target="_blank" rel="external">引爆点</a> 读一半</li>
+<li><a href="https://book.douban.com/subject/1261153/" target="_blank" rel="external">青蛇</a> 没想得好，通俗小说吧</li>
+<li><a href="https://book.douban.com/subject/3886832/" target="_blank" rel="external">废都</a> 贾平凹写的小黄书倒是看完了，汗，感觉就是男人的意淫。不如金瓶梅里的俏皮话有意思。</li>
+<li><a href="https://book.douban.com/subject/3795574/" target="_blank" rel="external">部落：一呼百应的力量</a> 垃圾书</li>
+</ul>
+<p>主要是实体书，豆瓣阅读和多看。看了很多讲金融的书，算是主要兴趣点。看了点小说和畅销书。虚构类的书读的比原来少很多。但真正的好书却没有花时间好好看看。比如格雷尔姆的《聪明的投资者》，读了2次，每次都是读到几章就没读了。</p>
+<h3 id="目前"><a href="#目前" class="headerlink" title="目前"></a>目前</h3><p>​    看了sidekiq和vue后，我产生了一种想法。我觉得我就可以把board以类似的方式做得好一点。这是我最近集中精力要做的事。</p>
+<h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>​    发现一年下来，并没有什么自己值得夸耀的成绩。什么都没有。如果写下这篇有什么意义的话，就是对自己有个总结，对明年有个希望：</p>
+<ul>
+<li><p>宁静的内心，专注地生活。</p>
+</li>
+<li><p>明年的年终总结很精彩。</p>
+</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;生活&quot;&gt;&lt;a href=&quot;#生活&quot; class=&quot;headerlink&quot; title=&quot;生活&quot;&gt;&lt;/a&gt;生活&lt;/h3&gt;&lt;p&gt;​    整个一年都是不好的状态。睡眠并不好，白天也没有特别的专注。除了经常骑车上下班2个多小时，没有再坚持运动。经常叫外卖。花了太多时间《
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
